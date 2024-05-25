@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    margin:20px;
+color:white;
+text-align:center;
+}
+
+h2{
+    color:brown;
+    }
+    footer{
+        font-size:20px;
+        color:white;
+       background-color:brown; 
+    }
+p{
+    font-size: 17px;
+    }
+ main img {
+     height:200px;
+     text-align:center;
+}
+header{
+    background-color:brown;
+    }
+    nav{
+        background-color:brown;
+        color:white;
+        margin:5px;
+        padding:5px;
+        }
+        nav p{
+            border:1px solid white;
+            padding:5px;
+            margin:5px;
+            }
+border{
+     padding:5px;
+     margin:5px;
+     }
